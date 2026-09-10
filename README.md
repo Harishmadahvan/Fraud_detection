@@ -10,9 +10,9 @@ This project is an end-to-end Fraud Detection Data Engineering Pipeline built us
 
 The project follows a simple Bronze → Silver → Gold data architecture:
 
-- Bronze Layer → Raw transaction data ingestion
-- Silver Layer → Cleaned and transformed data
-- Gold Layer → Fraud detection features and analytics-ready data
+- Bronze Layer → Raw transaction data ingestion.
+- Silver Layer → Cleaned and transformed data.
+- Gold Layer → Fraud detection features and analytics-ready data.
 
 ---
 
